@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Sri Valli 👋</h1>
 
 <p align="center">
-  <b>DevOps / Platform Engineer → AI Engineer</b><br/>
+  <b>Senior DevOps Platform Engineer </b><br/>
   Building reliable infrastructure, and now building reliable LLM systems on top of it.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/<your-linkedin>"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/aluguri-srivalli-330a35206/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:alugurisrivalli@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Based%20in-Hyderabad%2C%20India-555555?logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
@@ -29,10 +29,9 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 About me
 
-I'm a DevOps / Platform Engineer with 2+ years at **State Street**, where I design and operate CI/CD pipelines, cloud infrastructure, and policy-as-code governance across **400+ applications**. I'm now applying that engineering rigor to **applied AI/ML**: RAG pipelines, LLM fine-tuning, agentic workflows, and evaluation frameworks that treat LLM quality like a testable, deployable artifact.
+I'm a DevOps / Platform Engineer with 2+ years at **State Street**, where I design and operate CI/CD pipelines, cloud infrastructure, and policy-as-code governance across **400+ applications**. I'm endlessly curious about new technology. I love learning and exploring new tools and AI fields in my free time, and that curiosity is what keeps pulling me deeper into building with AI.
 
 - 🔭 **Currently:** exploring agent frameworks (LangGraph, LangChain, CrewAI, MCP) and LLM evaluation
-- 🎯 **Looking for:** AI Engineer roles where MLOps and production reliability matter
 - 🛠️ **What I bring:** infra automation, GitOps, governance, and guardrails, applied to AI systems
 - 🎓 B.Tech in Electronics & Communication Engineering (CGPA 9.24/10)
 
@@ -40,7 +39,7 @@ I'm a DevOps / Platform Engineer with 2+ years at **State Street**, where I desi
 
 ## 🚀 Featured projects
 
-### 🤖 [Intelligent Enterprise Knowledge Assistant](https://github.com/<your-username>/<repo-name>)
+### 🤖 [Intelligent Enterprise Knowledge Assistant]
 End-to-end **RAG application** with document preprocessing, chunking, embedding, vector retrieval, and grounded answers with source citations.
 - LoRA instruction fine-tuning with PyTorch, Hugging Face Transformers, and PEFT
 - Reproducible benchmarking framework (golden datasets) measuring groundedness, answer relevance, retrieval hit rate, refusal accuracy, hallucination rate, latency, and inference cost, before and after fine-tuning
@@ -48,7 +47,7 @@ End-to-end **RAG application** with document preprocessing, chunking, embedding,
 
 `Python` `PyTorch` `Transformers` `PEFT/LoRA` `FastAPI` `Docker` `Kubernetes`
 
-### 🗂️ [Client Portfolio Data Foundation](https://github.com/<your-username>/<repo-name>)
+### 🗂️ [Client Portfolio Data Foundation](https://github.com/AluguriSrivalli/client_data_rag_agent)
 A small-scale analogue of enterprise ETL/ELT plus vector indexing for RAG.
 - Pipeline ingesting structured (SQLite) and unstructured data, chunked, embedded, and indexed in **FAISS**
 - **LangGraph ReAct agent** that routes natural-language queries between a SQL tool and a semantic-retrieval tool
@@ -114,8 +113,8 @@ A small-scale analogue of enterprise ETL/ELT plus vector indexing for RAG.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AluguriSrivalli&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AluguriSrivalli&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
 
 ---
