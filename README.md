@@ -110,15 +110,6 @@ A small-scale analogue of enterprise ETL/ELT plus vector indexing for RAG.
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AluguriSrivalli&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AluguriSrivalli&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
----
-
 <p align="center">
   💬 Always happy to chat about <b>LLM evaluation, agentic systems, MLOps, and platform engineering</b>.
 </p>
